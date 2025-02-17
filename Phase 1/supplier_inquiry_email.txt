@@ -1,0 +1,35 @@
+Next file: Supplier Inquiry Email (supplier_inquiry_email.txt)
+
+Here’s the email template for you to copy and save:
+
+Subject: Inquiry About Canon imagePROGRAF PRO-2100 Pricing & Supplies
+
+Dear [Supplier's Name],
+
+I hope this email finds you well. I am in the process of setting up a fine art and large-format printing business in North Denver, CO, and I am interested in purchasing the Canon imagePROGRAF PRO-2100 printer, along with a reliable supply of ink and paper.
+
+I would appreciate it if you could provide details on:
+
+Pricing for the Canon imagePROGRAF PRO-2100 (including any current promotions or bundle deals).
+Availability and estimated delivery time.
+Pricing for Canon PFI-1700 ink cartridges (individual and bulk order options).
+Pricing for high-quality fine art and matte papers compatible with the PRO-2100.
+Any bulk order discounts or loyalty programs for repeat customers.
+Information on service agreements, maintenance plans, or warranties you offer.
+Additionally, if you have recommendations on the best ink and paper options for high-quality, archival-grade prints, I would love to hear your insights.
+
+Please let me know if you need any further details from my end. I look forward to your response and hope to establish a long-term business relationship with your company.
+
+Best regards,
+[Your Name]
+[Your Business Name]
+[Your Contact Information]
+[Your Website (if applicable)]
+
+Instructions to Save & Use:
+1️⃣ Copy the entire text above.
+2️⃣ Paste it into a text editor (e.g., Notepad, VS Code).
+3️⃣ Save the file as supplier_inquiry_email.txt.
+4️⃣ Use it when reaching out to suppliers for quotes & bulk pricing.
+
+This was the last file! You now have everything backed up. 🚀 Let me know if you need any modifications or additional files!
